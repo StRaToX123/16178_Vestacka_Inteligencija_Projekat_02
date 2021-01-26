@@ -1,7 +1,11 @@
 # 16178_Vestacka_Inteligencija_Projekat_02
 <br />
 Implementacija genetskog algoritma za rešavanje rasporeda časova na fakultetu :<br />
-
+<br />
+Ime : Pavle<br />
+Prezime : Marinković<br />
+Broj Indeksa : 16178<br />
+<br />
 Na ovom repozitorijumu je postavljen Visual Studio 2019 solution. Projekat je realizovan kao jedan .py fajl i moguće je pokrenuti samo taj .py fajl bez korišćenja Visual Studia-a.<br />
 Ali u slučaju da želite da pokrenete python kroz visual studio, potrebno je prvo instalirati Visual Studio dodatak za rad sa python-om.<br />
 Nakon toga možete pokrenuti solution fajl sa ovog repozitorijuma i startovati projekat.<br />
