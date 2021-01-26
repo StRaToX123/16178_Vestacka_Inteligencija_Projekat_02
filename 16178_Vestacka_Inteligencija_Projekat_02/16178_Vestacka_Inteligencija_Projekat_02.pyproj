@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>708b168e-bbf7-4964-962e-a28f89fb0d28</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>_16178_Vestacka_Inteligencija_Projekat_02.py</StartupFile>
+    <StartupFile>16178_Vestacka_Inteligencija_Projekat_02.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,7 +22,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="_16178_Vestacka_Inteligencija_Projekat_02.py" />
+    <Compile Include="16178_Vestacka_Inteligencija_Projekat_02.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

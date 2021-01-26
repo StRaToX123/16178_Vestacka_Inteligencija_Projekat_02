@@ -3,7 +3,7 @@
 # Naslov rada : Implementacija genetskog algoritma za rešavanje rasporeda na fakultetu
 
 # Gledao sam da kompletan kod bude u jednom .py fajlu radi lakse distribucije.
-# Opis rada aplikacije i druge informacije se mogu naci u izveštaju "16178_Izvestaj_Projekat_02.pdf"
+# Opis rada aplikacije i druge informacije se mogu naci u izveštaju "Izvestaj.pdf"
 
 
 #########################################################
